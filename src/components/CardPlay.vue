@@ -90,7 +90,7 @@ export default {
 .card__inner {
   width: 100%;
   height: 100%;
-  transition: tranform 1s;
+  transition: transform 1s;
   transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
